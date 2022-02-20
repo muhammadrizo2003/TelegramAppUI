@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TelegramUIClone</string>
+    <string name="search_for_messages_and_users">Search for messages and users</string>
+    <string name="xurshidbek_has_just_sent_a_voice_message">Xurshidbek has just sent a voice message</string>
+    <string name="xurshidbek_kurbanov">Xurshidbek Kurbanov</string>
+    <string name="time">2:41 PM</string>
+</resources>
